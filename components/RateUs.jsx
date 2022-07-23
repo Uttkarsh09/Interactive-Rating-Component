@@ -1,5 +1,5 @@
 import { useState } from "react";
-import styles from "styles/rateus.module.css";
+import styles from "../styles/rateus.module.css";
 import Image from "next/image";
 import cn from "classnames";
 import { motion } from "framer-motion";

@@ -1,6 +1,6 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Head from "next/head";
-import style from "styles/home.module.css";
+import style from "../styles/home.module.css";
 import RateUs from "../components/RateUs.jsx";
 import Thankyou from "../components/Thankyou.jsx";
 import { useAnimation } from "framer-motion";
