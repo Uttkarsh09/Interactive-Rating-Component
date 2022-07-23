@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;300;400;500;600;700;800;900&display=swap');
+
+.font_light_grey{
+    color: hsl(217, 12%, 63%);
+}
+
+.btn_rating_count:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+    cursor: pointer;
+}
+
+.btn_rating_selected{
+    background-color: hsl(217, 12%, 63%);
+    color: white;
+}
+
+.btn_rating_not_selected{
+    display: block;
+}
+
+.btn_submit{
+    background-color: hsl(25, 97%, 53%);
+    color:  hsl(0, 0%, 100%);
+}
+
+.btn_submit:hover{
+    background-color:  hsl(0, 0%, 100%);
+    color: hsl(25, 97%, 53%);
+}

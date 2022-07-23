@@ -1,0 +1,11 @@
+.main_background{
+    background-color: hsl(240, 3%, 7%);
+}
+
+.card_background{
+    background: rgb(37,45,55);
+    background: radial-gradient(circle, rgba(37,45,55,1) 0%, rgb(15, 15, 26) 100%);
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    background-size: 700px 700px;
+}
